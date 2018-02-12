@@ -4,6 +4,9 @@
 Персональные задачи:
 
 
+* "[ссылка на Wiki](https://github.com/MariaSamsonova/OOP_Lab/wiki)
+
+
 В помощь:
 * Материалы "[загляни в прошлое](https://github.com/stankin/oop/wiki)"
 * Материалы "[загляни в будущее](https://github.com/stankin/inet-2017/wiki)"
