@@ -13,5 +13,5 @@
 
 **Дополнительно:**
 
-* "[ссылка на Wiki](https://github.com/MariaSamsonova/OOP_Lab/wiki)
+* "[ссылка на задачу в Wiki](https://github.com/MariaSamsonova/OOP_Lab/wiki/UML.-Диаграмма-объектов)
 
